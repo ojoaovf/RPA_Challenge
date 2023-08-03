@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+prj_RpaChallenge/__init__.py
+prj_RpaChallenge/__main__.py
+prj_RpaChallenge/bot.py
+prj_RpaChallenge.egg-info/PKG-INFO
+prj_RpaChallenge.egg-info/SOURCES.txt
+prj_RpaChallenge.egg-info/dependency_links.txt
+prj_RpaChallenge.egg-info/requires.txt
+prj_RpaChallenge.egg-info/top_level.txt
+prj_RpaChallenge/resources/start.png
