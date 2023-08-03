@@ -10,7 +10,7 @@
 # Sobre 
 <p> 
 O objetivo deste desafio é criar um fluxo de trabalho em que o robô acesse o site "https://rpachallenge.com" e baixe a planilha indicada. 
-Após isso, insirir os dados da planilha em seus respectivos campos e enviar.
+Após isso, inserir os dados da planilha em seus respectivos campos e enviar.
 Porém, os campos mudam de posição após cada envio ao longo de 10 rodadas, portanto, 
 o robô deve identificar corretamente onde cada registro da planilha deve ser digitado todas as vezes.
 </p>
