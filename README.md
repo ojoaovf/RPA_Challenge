@@ -24,7 +24,7 @@ o robô deve identificar corretamente onde cada registro da planilha deve ser di
 
 <p>• <a href="https://developers.botcity.dev/login">Conta BotCity </a></p>
 <p>• <a href="https://documentation.botcity.dev/pt/getting-started/botcity-studio-sdk/">BotCity Studio SDK </a></p>
-<p>• <a href="https://documentation.botcity.dev/pt/tutorials/python-automations/web/">Python 3.7 ou superio </a></p>
+<p>• <a href="https://documentation.botcity.dev/pt/tutorials/python-automations/web/">Python 3.7 ou superior </a></p>
 <p>• Além disto é bom ter uma boa IDE para trabalhar com o código como <a href="https://code.visualstudio.com">VSCode </a></p>
 
 
